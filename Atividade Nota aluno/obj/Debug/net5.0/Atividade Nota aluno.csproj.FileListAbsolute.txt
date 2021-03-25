@@ -1,0 +1,16 @@
+E:\Senai\DS2\Visual Code\Atividade Nota aluno\bin\Debug\net5.0\Atividade Nota aluno.exe
+E:\Senai\DS2\Visual Code\Atividade Nota aluno\bin\Debug\net5.0\Atividade Nota aluno.deps.json
+E:\Senai\DS2\Visual Code\Atividade Nota aluno\bin\Debug\net5.0\Atividade Nota aluno.runtimeconfig.json
+E:\Senai\DS2\Visual Code\Atividade Nota aluno\bin\Debug\net5.0\Atividade Nota aluno.runtimeconfig.dev.json
+E:\Senai\DS2\Visual Code\Atividade Nota aluno\bin\Debug\net5.0\Atividade Nota aluno.dll
+E:\Senai\DS2\Visual Code\Atividade Nota aluno\bin\Debug\net5.0\ref\Atividade Nota aluno.dll
+E:\Senai\DS2\Visual Code\Atividade Nota aluno\bin\Debug\net5.0\Atividade Nota aluno.pdb
+E:\Senai\DS2\Visual Code\Atividade Nota aluno\obj\Debug\net5.0\Atividade Nota aluno.csprojAssemblyReference.cache
+E:\Senai\DS2\Visual Code\Atividade Nota aluno\obj\Debug\net5.0\Atividade Nota aluno.GeneratedMSBuildEditorConfig.editorconfig
+E:\Senai\DS2\Visual Code\Atividade Nota aluno\obj\Debug\net5.0\Atividade Nota aluno.AssemblyInfoInputs.cache
+E:\Senai\DS2\Visual Code\Atividade Nota aluno\obj\Debug\net5.0\Atividade Nota aluno.AssemblyInfo.cs
+E:\Senai\DS2\Visual Code\Atividade Nota aluno\obj\Debug\net5.0\Atividade Nota aluno.csproj.CoreCompileInputs.cache
+E:\Senai\DS2\Visual Code\Atividade Nota aluno\obj\Debug\net5.0\Atividade Nota aluno.dll
+E:\Senai\DS2\Visual Code\Atividade Nota aluno\obj\Debug\net5.0\ref\Atividade Nota aluno.dll
+E:\Senai\DS2\Visual Code\Atividade Nota aluno\obj\Debug\net5.0\Atividade Nota aluno.pdb
+E:\Senai\DS2\Visual Code\Atividade Nota aluno\obj\Debug\net5.0\Atividade Nota aluno.genruntimeconfig.cache

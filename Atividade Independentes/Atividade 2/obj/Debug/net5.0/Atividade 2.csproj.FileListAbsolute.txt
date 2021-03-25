@@ -1,0 +1,16 @@
+E:\Senai\DS2\Visual Code\Atividade Independentes\Atividade 2\bin\Debug\net5.0\Atividade 2.exe
+E:\Senai\DS2\Visual Code\Atividade Independentes\Atividade 2\bin\Debug\net5.0\Atividade 2.deps.json
+E:\Senai\DS2\Visual Code\Atividade Independentes\Atividade 2\bin\Debug\net5.0\Atividade 2.runtimeconfig.json
+E:\Senai\DS2\Visual Code\Atividade Independentes\Atividade 2\bin\Debug\net5.0\Atividade 2.runtimeconfig.dev.json
+E:\Senai\DS2\Visual Code\Atividade Independentes\Atividade 2\bin\Debug\net5.0\Atividade 2.dll
+E:\Senai\DS2\Visual Code\Atividade Independentes\Atividade 2\bin\Debug\net5.0\ref\Atividade 2.dll
+E:\Senai\DS2\Visual Code\Atividade Independentes\Atividade 2\bin\Debug\net5.0\Atividade 2.pdb
+E:\Senai\DS2\Visual Code\Atividade Independentes\Atividade 2\obj\Debug\net5.0\Atividade 2.csprojAssemblyReference.cache
+E:\Senai\DS2\Visual Code\Atividade Independentes\Atividade 2\obj\Debug\net5.0\Atividade 2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Senai\DS2\Visual Code\Atividade Independentes\Atividade 2\obj\Debug\net5.0\Atividade 2.AssemblyInfoInputs.cache
+E:\Senai\DS2\Visual Code\Atividade Independentes\Atividade 2\obj\Debug\net5.0\Atividade 2.AssemblyInfo.cs
+E:\Senai\DS2\Visual Code\Atividade Independentes\Atividade 2\obj\Debug\net5.0\Atividade 2.csproj.CoreCompileInputs.cache
+E:\Senai\DS2\Visual Code\Atividade Independentes\Atividade 2\obj\Debug\net5.0\Atividade 2.dll
+E:\Senai\DS2\Visual Code\Atividade Independentes\Atividade 2\obj\Debug\net5.0\ref\Atividade 2.dll
+E:\Senai\DS2\Visual Code\Atividade Independentes\Atividade 2\obj\Debug\net5.0\Atividade 2.pdb
+E:\Senai\DS2\Visual Code\Atividade Independentes\Atividade 2\obj\Debug\net5.0\Atividade 2.genruntimeconfig.cache
