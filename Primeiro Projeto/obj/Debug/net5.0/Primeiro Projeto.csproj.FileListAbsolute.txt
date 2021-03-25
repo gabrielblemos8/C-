@@ -1,0 +1,32 @@
+E:\Senai\DS2\Primeiro Projeto\bin\Debug\net5.0\Primeiro Projeto.exe
+E:\Senai\DS2\Primeiro Projeto\bin\Debug\net5.0\Primeiro Projeto.deps.json
+E:\Senai\DS2\Primeiro Projeto\bin\Debug\net5.0\Primeiro Projeto.runtimeconfig.json
+E:\Senai\DS2\Primeiro Projeto\bin\Debug\net5.0\Primeiro Projeto.runtimeconfig.dev.json
+E:\Senai\DS2\Primeiro Projeto\bin\Debug\net5.0\Primeiro Projeto.dll
+E:\Senai\DS2\Primeiro Projeto\bin\Debug\net5.0\ref\Primeiro Projeto.dll
+E:\Senai\DS2\Primeiro Projeto\bin\Debug\net5.0\Primeiro Projeto.pdb
+E:\Senai\DS2\Primeiro Projeto\obj\Debug\net5.0\Primeiro Projeto.csprojAssemblyReference.cache
+E:\Senai\DS2\Primeiro Projeto\obj\Debug\net5.0\Primeiro Projeto.GeneratedMSBuildEditorConfig.editorconfig
+E:\Senai\DS2\Primeiro Projeto\obj\Debug\net5.0\Primeiro Projeto.AssemblyInfoInputs.cache
+E:\Senai\DS2\Primeiro Projeto\obj\Debug\net5.0\Primeiro Projeto.AssemblyInfo.cs
+E:\Senai\DS2\Primeiro Projeto\obj\Debug\net5.0\Primeiro Projeto.csproj.CoreCompileInputs.cache
+E:\Senai\DS2\Primeiro Projeto\obj\Debug\net5.0\Primeiro Projeto.dll
+E:\Senai\DS2\Primeiro Projeto\obj\Debug\net5.0\ref\Primeiro Projeto.dll
+E:\Senai\DS2\Primeiro Projeto\obj\Debug\net5.0\Primeiro Projeto.pdb
+E:\Senai\DS2\Primeiro Projeto\obj\Debug\net5.0\Primeiro Projeto.genruntimeconfig.cache
+E:\Senai\DS2\Visual Code\Primeiro Projeto\bin\Debug\net5.0\Primeiro Projeto.exe
+E:\Senai\DS2\Visual Code\Primeiro Projeto\bin\Debug\net5.0\Primeiro Projeto.deps.json
+E:\Senai\DS2\Visual Code\Primeiro Projeto\bin\Debug\net5.0\Primeiro Projeto.runtimeconfig.json
+E:\Senai\DS2\Visual Code\Primeiro Projeto\bin\Debug\net5.0\Primeiro Projeto.runtimeconfig.dev.json
+E:\Senai\DS2\Visual Code\Primeiro Projeto\bin\Debug\net5.0\Primeiro Projeto.dll
+E:\Senai\DS2\Visual Code\Primeiro Projeto\bin\Debug\net5.0\ref\Primeiro Projeto.dll
+E:\Senai\DS2\Visual Code\Primeiro Projeto\bin\Debug\net5.0\Primeiro Projeto.pdb
+E:\Senai\DS2\Visual Code\Primeiro Projeto\obj\Debug\net5.0\Primeiro Projeto.csprojAssemblyReference.cache
+E:\Senai\DS2\Visual Code\Primeiro Projeto\obj\Debug\net5.0\Primeiro Projeto.GeneratedMSBuildEditorConfig.editorconfig
+E:\Senai\DS2\Visual Code\Primeiro Projeto\obj\Debug\net5.0\Primeiro Projeto.AssemblyInfoInputs.cache
+E:\Senai\DS2\Visual Code\Primeiro Projeto\obj\Debug\net5.0\Primeiro Projeto.AssemblyInfo.cs
+E:\Senai\DS2\Visual Code\Primeiro Projeto\obj\Debug\net5.0\Primeiro Projeto.csproj.CoreCompileInputs.cache
+E:\Senai\DS2\Visual Code\Primeiro Projeto\obj\Debug\net5.0\Primeiro Projeto.dll
+E:\Senai\DS2\Visual Code\Primeiro Projeto\obj\Debug\net5.0\ref\Primeiro Projeto.dll
+E:\Senai\DS2\Visual Code\Primeiro Projeto\obj\Debug\net5.0\Primeiro Projeto.pdb
+E:\Senai\DS2\Visual Code\Primeiro Projeto\obj\Debug\net5.0\Primeiro Projeto.genruntimeconfig.cache
