@@ -1,0 +1,13 @@
+E:\Senai\DS2\Visual Code\Teste\bin\Debug\netcoreapp3.1\Teste.exe
+E:\Senai\DS2\Visual Code\Teste\bin\Debug\netcoreapp3.1\Teste.deps.json
+E:\Senai\DS2\Visual Code\Teste\bin\Debug\netcoreapp3.1\Teste.runtimeconfig.json
+E:\Senai\DS2\Visual Code\Teste\bin\Debug\netcoreapp3.1\Teste.runtimeconfig.dev.json
+E:\Senai\DS2\Visual Code\Teste\bin\Debug\netcoreapp3.1\Teste.dll
+E:\Senai\DS2\Visual Code\Teste\bin\Debug\netcoreapp3.1\Teste.pdb
+E:\Senai\DS2\Visual Code\Teste\obj\Debug\netcoreapp3.1\Teste.csprojAssemblyReference.cache
+E:\Senai\DS2\Visual Code\Teste\obj\Debug\netcoreapp3.1\Teste.AssemblyInfoInputs.cache
+E:\Senai\DS2\Visual Code\Teste\obj\Debug\netcoreapp3.1\Teste.AssemblyInfo.cs
+E:\Senai\DS2\Visual Code\Teste\obj\Debug\netcoreapp3.1\Teste.csproj.CoreCompileInputs.cache
+E:\Senai\DS2\Visual Code\Teste\obj\Debug\netcoreapp3.1\Teste.dll
+E:\Senai\DS2\Visual Code\Teste\obj\Debug\netcoreapp3.1\Teste.pdb
+E:\Senai\DS2\Visual Code\Teste\obj\Debug\netcoreapp3.1\Teste.genruntimeconfig.cache
