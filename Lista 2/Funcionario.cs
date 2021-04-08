@@ -1,27 +1,35 @@
-using System.Reflection.PortableExecutable;
+using System;
 using System.Globalization;
+using System.Collections.Generic;
+
 
 namespace Lista_2
 {
-    public class Funcionario
-    {
-        public int Id { get; set; }
-
-        public string Nome { get; set; }
-
-        public double Salario { get; set; }
-
-        public Funcionario(int id, string nome, int salario)
+    class Program
+    {   
+        public static void Main(string[] args)
         {
-            this.Id = id;
-            this.Nome = nome;
-            this.Salario = salario;
+            List<Funcionario> List = new List<Funcionario>();
 
+            Funcionario f1 = new Funcionario(333,"Maria Brown", 4000);
+            Funcionario f2 = new Funcionario(536,"Alex Grey", 3000);
+            Funcionario f3 = new Funcionario(772,"Bob Green", 5000);
+
+            List.Add(f1);
+            List.Add(f2);
+            List.Add(f3);
+
+
+            Console.WriteLine("Digite o ID do funcionario");
+            int searchId = int.Parse(Console.ReadLine());
+
+            foreach (Funcionario item in List)
+            {
+                if (searchId == item.Id){
+                    item.IncrementoSalario();
+                    Console.WriteLine( "\r\n"+ $"id - {item.Id}, Nome - {item.Nome}, Salario Atualizado - R${item.Salario}");
+                }
+            }
         }
-
-        public void IncrementoSalario() {
-            Salario += Salario * 10 / 100.0;
-        }
-
     }
 }
